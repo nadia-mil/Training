@@ -7,4 +7,5 @@ Exercises:
 
 - Install Python
 - My first program - Strings & comments
-- Numbers & math
+- Numbers & Math
+- Variables & Names
