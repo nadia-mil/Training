@@ -6,5 +6,5 @@ Learning Python
 Exercises:
 
 - Install Python
-- Hello world
-- Firs application
+- My first program - Strings & comments
+- Numbers & math
